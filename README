@@ -1,41 +1,7 @@
 # This is a read me explaining the project, milk_wash
 
-Customer Info:
-License plate number
-Cell phone number
-Home phone number
-Name
-Plan type
-Parking lot ID
-Car type
-Number of cars
-Total sales from client
-Total payable from client
-Number of checks received
-Number of ATM received
-Months using our service
+Everyone gets your own branch
+Adds anything you could think of to the data_list
 
-
-Marketing Info:
-Number of clients
-Number of car
-Number of Plan A
-Number of Plan B
-Number of Plan C
-Total washes this month
-Total washes this year
-Estimate washes this month
-Estimate washes this year
-Number of clients by parking lot ID
-Monthly cash income
-Monthly salary expense
-Monthly material expense
-Monthly expense total
-Monthly profit
-Monthly profit/Number of clients
-Monthly profit/Number of cars
-Monthly number of clients +/- by parking lot ID
-Monthly number of clients +/- total
-Monthly % of clients +/- by parking lot ID
-Monthly % of clients +/- total
-
+Think about which direction we'll be building this application
+and what kind of knowledge we will be needing
