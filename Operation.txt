@@ -8,7 +8,7 @@
 
 	3. Entry Mode (輸入端) - 就像我們說的 這是最常用模式 能輸入的field只有 License Plate, 錢的數量, 還要有付費方式. 想這個的時候是覺得讓不會用電腦的人可以用
 
-	4. Maintenance Mode (高級輸入端) - 能用這個的要有一定的知識 這個是用來減輕我們 back end的負擔 	我們可以break down the things that has to be entered. 比如說 他們能看到 License plate 	然後必須把所有的matching電話號碼輸入進去 或是 Parking lot ID, Plan type. 如果能做到這點 我們只	需要想 要有什麼field 還有 什麼時候要 release什麼field讓他們去輸入 當然到最後要開新帳號的時候需要有一個人一次輸入那個license plate有關的所有的資料 數量少 我們可以做
+	4. Maintenance Mode (高級輸入端) - 能用這個的要有一定的知識 這個是用來減輕我們 back end的負擔我們可以break down the things that has to be entered. 比如說 他們能看到 License plate 	然後必須把所有的matching電話號碼輸入進去 或是 Parking lot ID, Plan type. 如果能做到這點 我們只需要想 要有什麼field 還有 什麼時候要 release什麼field讓他們去輸入 當然到最後要開新帳號的時候需要有一個人一次輸入那個license plate有關的所有的資料 數量少 我們可以做
 
 Just some initial thoughts.
 To be updated 
