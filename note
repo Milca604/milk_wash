@@ -1,0 +1,10 @@
+how to create database with python code?
+
+- research about what types of database are out there
+- which kind of database suits milk_wash the most (free, stable, accessable through internet oversea)
+- python is able to interact with chosen database
+
+
+explaination of database:
+for every key:value pair, set the key to the client's unique ID(license plate number).  Then follows this unique ID will be the attribute ID we defined.  For example, 1 would be phone number, 2 would be client's alias, 3 would be parking lot ID, and so on.  The value then will be reference of the specified key such as ABC123-1:(604)882-5252(license plate number ABC123-phone number:(604)882-5252).
+For every other marketing required information, we'll only need to create a function which builds a list from items that have a certain ID within the key of the dictionary.  For example if ID 9 is Plan type A.  We could create a list of all 300 clients' info of key ID 9, then compute the necessary data out of this list.
