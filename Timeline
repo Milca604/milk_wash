@@ -11,16 +11,42 @@ Let’s start with a list of things that has to be accomplished in order.
 Then, we will set the dates.
 
 List of tasks:
+
+Decide direction of how to go
 Discuss about timeline to refine number of tasks (ongoing)
 Learn about database program and implementation
 Come up with parameters to be implemented in the program
 Flow chart to illustrate python code structure (ongoing)
 Coding (to be separated into segments to code) (need to be clearly defined but updated regularly)
 
+How to use SQLite 
+ Read documentation for SQLite
+how to import into SQLite
+script to process and organize imported data
+SQLite3 as database
+SQLiteman as database GUI
 
-2015 Aug 14: Drink and discuss timeline.
+Python 3
+ install Python 3
+ Learn Python 3
+  What’s different with python 2
+ 
+Find SQlite API
 
-2015 Aug 21: In a week’s time, what should we accomplish.
+Delivery
+ Testing, debugging
+ teaching them how to use it 
+
+Find database hosting
+ Domain registration - that support SQLite
+ 
+
+2015 Aug 14: Drink and discuss timeline. Breaking down tasks was a success. 8 beers drank.
+2015 Aug 17: Find out the major differences between Python 2 and Python 3.
+2015 Aug 19: Learn 2 useful things in Python 3. Put in Git.
+2015 Aug 21: Questions about things learned. Talk about what to do next week.
+
+
 
 2015 Aug 28: Flow chart should be done, General idea of how data base and python work together should be obtained.
 
