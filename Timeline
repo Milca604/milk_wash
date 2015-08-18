@@ -1,6 +1,6 @@
 Our problem for every plans we come up with is lack of execution.
 
-I propose to set timeline to help with execution.
+I propose to set time line to help with execution.
 The purpose of this is to have small, but reachable goals, so we keep working at it.
 When the goal seems too big or too far away, break it down.
 
@@ -10,27 +10,73 @@ some of the dates can be later altered.
 Let’s start with a list of things that has to be accomplished in order.
 Then, we will set the dates.
 
-List of tasks:
-Discuss about timeline to refine number of tasks (ongoing)
-Learn about database program and implementation
-Come up with parameters to be implemented in the program
-Flow chart to illustrate python code structure (ongoing)
-Coding (to be separated into segments to code) (need to be clearly defined but updated regularly)
+List of tasks: (Place task under each week respectively)
+01- Discuss about time line to refine number of tasks
+
+02- Learn about database program and implementation (sqlite3)
+	a- read official document
+	b- create memo(notes)
+	c- learn sqlite3 GUI (sqliteman)
+
+03- Come up with parameters to be implemented in the program
+
+04- Flow chart to illustrate python code structure
+	a- blue print of milk_wash
+
+05- Coding (to be separated into segments to code) (need to be clearly defined but updated regularly)
+	a- Body of milk_wash
+
+06- Import data
+	a- learn converting procedure (Excel->sqlite3)
+	b- Input data
+	c- Confirm data accuracy
+
+06- test run
+	a- HK entry mode
+	b- Backstage maintenance mode
+	c- Marketing material mode
 
 
-2015 Aug 14: Drink and discuss timeline.
+2015 Aug 14, week 0: 
+Drink and discuss time line.
 
-2015 Aug 21: In a week’s time, what should we accomplish.
 
-2015 Aug 28: Flow chart should be done, General idea of how data base and python work together should be obtained.
 
-. . . . . 
 
-. . . . . 
+2015 Aug 21, week 1: 
 
-. . . . . 
 
-. . . . . 
+
+
+
+2015 Aug 28, week 2: 
+Flow chart should be done, General idea of how data base and python work together should be obtained.
+
+2015 Sep 04, week 3:
+
+
+
+2015 Sep 11, week 4:
+
+
+2015 Sep 18, week 5:
+
+
+2015 Sep 25, week 6:
+
+
+2015 Oct 02, week 7:
+
+
+2015 Oct 09, week 8:
+
+2015 Oct 16, week 9:
+
+2015 Oct 23, week 10:
+
+2015 Oct 30, week 11:
+
+
 
 2015 Sept 25 This project should be nearly finished
 
