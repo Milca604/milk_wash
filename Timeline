@@ -17,6 +17,11 @@ List of tasks: (Place task under each week respectively)
 	a- read official document
 	b- create memo(notes)
 	c- learn sqlite3 GUI (sqliteman)
+02- Learn about modules used to parse MS excel spreadsheets files with Python (http://www.python-excel.org/)
+	d- pick a suitable module (sqlite and excel compatible)
+	e- read official document of the module
+	f- create memo(notes) for the module
+	g- incorporate module with sqlite3
 
 03- Come up with parameters to be implemented in the program
 
@@ -42,38 +47,41 @@ Drink and discuss time line.
 
 
 
-
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 2015 Aug 21, week 1: 
+- Read and fully understand this tutorial of SQLite3
+	- SQLite Python tutorial
+	http://tinyurl.com/cobpf72
 
 
-
-
-
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 2015 Aug 28, week 2: 
-Flow chart should be done, General idea of how data base and python work together should be obtained.
+- Flow chart should be done, General idea of how data base and python work together should be obtained.
+- Read this tutorial
+	- Relational database introduction with Python and SQLite
+	http://tinyurl.com/pj8dfdk
 
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 2015 Sep 04, week 3:
+- Read this tutorial
+	- Migrating Excel data to SQLite using Python
+	http://tinyurl.com/pl3a3or
 
-
-
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 2015 Sep 11, week 4:
-
-
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 2015 Sep 18, week 5:
-
-
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 2015 Sep 25, week 6:
-
-
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 2015 Oct 02, week 7:
-
-
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 2015 Oct 09, week 8:
-
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 2015 Oct 16, week 9:
-
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 2015 Oct 23, week 10:
-
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 2015 Oct 30, week 11:
 
 
