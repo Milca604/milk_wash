@@ -8,11 +8,3 @@ how to create database with python code?
 explaination of database:
 for every key:value pair, set the key to the client's unique ID(license plate number).  Then follows this unique ID will be the attribute ID we defined.  For example, 1 would be phone number, 2 would be client's alias, 3 would be parking lot ID, and so on.  The value then will be reference of the specified key such as ABC123-1:(604)882-5252(license plate number ABC123-phone number:(604)882-5252).
 For every other marketing required information, we'll only need to create a function which builds a list from items that have a certain ID within the key of the dictionary.  For example if ID 9 is Plan type A.  We could create a list of all 300 clients' info of key ID 9, then compute the necessary data out of this list.
-
-- rows vs columns
-rows	- left to right
-columns	- top to bottom
-
-
-- GUI for various data entry mode
-Think Python file p.45.  An exercise to draw lines with basic math symbols (+, -, =) to create a pseudo GUI.  This method might be helpful for "limited previliege data entry mode" since not many types of data will be showing.  Thus a simplified pseudo data entry mode might suits our need. (The limited previliege data entry mode to employed at HK side)

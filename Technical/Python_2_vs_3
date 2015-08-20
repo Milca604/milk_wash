@@ -1,0 +1,43 @@
+Key differences between python 2.7 and python 3
+
+1. Print function:
+	Python 3’s print function requires parentheses
+	print “Hello World!” vs print (“Hello World!”)
+	This means the print command is now a function instead of a command.
+
+2. Integer division:
+	Python 2 command 3/2 yields 1
+	Python 3 command 3/2 yields 1.5 
+	It is no longer required to use floating point 3.0/2 or float(3)/2
+	but still best practice to use them in case someone opens code with older version.
+
+3. Unicode support:
+	Python 3 supports unicode (utf-8).
+	I am not quite clear on what this means.
+
+4. Speed:
+	Python 3 runs slower than python 2 in terms of processing speed.
+
+5. Raise Exception syntax error:
+	Python 3’s exception arguments needs to be enclosed in parentheses.
+	ex. raise IOError, “file error” should be written as. raise IOError(“file error”)
+
+6. Handling Exception:
+	Python 3 need to use “as” keyword.
+	
+7. For-loop variables and global namespace leak:
+	for-loop variables don’t leak into global namespace anymore.
+	Also, list comprehensions have different semantics.
+
+8. Comparing unorderable types:
+	Python 3 will raise TypeError when unorderable types are being compared.
+
+9. input():
+	using input() in Python 3 will always be stored in str.
+	Python 2 needed to use raw_input(). This is no longer the case.
+
+10. Returning utterable objects instead of lists:
+	Python 2 return range() and other functions as lists. Python 3 does not.
+	eg. zip(), map(), filter(), and dictionary’s .keys(), .values(), .items()
+
+Please add to list if you find more.
