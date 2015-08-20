@@ -16,3 +16,20 @@ columns	- top to bottom
 
 - GUI for various data entry mode
 Think Python file p.45.  An exercise to draw lines with basic math symbols (+, -, =) to create a pseudo GUI.  This method might be helpful for "limited previliege data entry mode" since not many types of data will be showing.  Thus a simplified pseudo data entry mode might suits our need. (The limited previliege data entry mode to employed at HK side)
+
+- CSV file
+comma separated values file
+
+- xlrd
+python module used to parse MS excel spreadsheets
+
+- Migrating Excel data to SQLite using Python
+http://tinyurl.com/pl3a3or
+
+- Relational database introduction with Python and SQLite
+http://tinyurl.com/pj8dfdk
+
+- SQLite Python tutorial
+http://tinyurl.com/cobpf72
+
+- win32com ???
